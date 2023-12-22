@@ -1,7 +1,7 @@
 
 
 
-msg=rand(5,3);
+
 msg=floor(msg*8) 
 MSG=gf(msg,3); 
 code=rs_rscode(MSG) %对5组信号进行编码，得到5组正确的
