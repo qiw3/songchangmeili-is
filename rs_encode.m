@@ -1,6 +1,6 @@
 function encoded_data = rs_encode(data, n, k)
     % data: 输入的数据
-    % n: RS码的总长度
+    % n: RS
     % k: RS码
 
     % 调用子函数进行RS码编码
